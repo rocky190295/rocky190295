@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @rocky190295
 - 👀 I’m interested in data analytics and everything about data
-- 🌱 I’m currently learning the world of data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to build an app very similar to DrawBot V3 but not infringe any IP.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am color blind but artistic
 
 <!---
 rocky190295/rocky190295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
